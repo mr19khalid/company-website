@@ -569,3 +569,4 @@ const AdvancedPortfolio: React.FC = () => {
 };
 
 export default AdvancedPortfolio;
+export {};

@@ -58,3 +58,4 @@ export const services: Service[] = [
     details: "Transform your space with our comprehensive renovation services. We handle everything from design to execution."
   }
 ];
+export {};

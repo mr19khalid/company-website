@@ -526,3 +526,4 @@ const ARVisualizer: React.FC = () => {
 };
 
 export default ARVisualizer;
+export {};

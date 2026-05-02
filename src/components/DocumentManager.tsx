@@ -1062,3 +1062,4 @@ const DocumentCard: React.FC<DocumentCardProps> = ({ document, onAction, onSelec
 };
 
 export default DocumentManager;
+export {};

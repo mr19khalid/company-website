@@ -38,3 +38,4 @@ export interface Testimonial {
   project: string;
   imageUrl: string;
 }
+export {};

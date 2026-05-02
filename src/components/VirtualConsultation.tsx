@@ -539,3 +539,4 @@ const VirtualConsultation: React.FC = () => {
 };
 
 export default VirtualConsultation;
+export {};

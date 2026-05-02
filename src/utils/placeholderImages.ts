@@ -56,3 +56,4 @@ export const getProjectImage = (category: string) => {
 
   return images[category] || images.default;
 };
+export {};

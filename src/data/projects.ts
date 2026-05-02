@@ -71,3 +71,4 @@ export const projects: Project[] = [
     client: "Smith Family"
   }
 ];
+export {};

@@ -383,3 +383,4 @@ const MaterialSelector3D: React.FC = () => {
 };
 
 export default MaterialSelector3D;
+export {};

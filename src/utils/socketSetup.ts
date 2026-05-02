@@ -50,3 +50,4 @@ export const socketEvents = {
   MESSAGE_READ: 'message-read',
   ERROR: 'error'
 };
+export {};

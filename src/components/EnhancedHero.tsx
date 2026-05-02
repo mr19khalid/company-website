@@ -259,3 +259,4 @@ const EnhancedHero: React.FC = () => {
 };
 
 export default EnhancedHero;
+export {};

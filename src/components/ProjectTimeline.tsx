@@ -197,3 +197,5 @@ const ProjectTimeline: React.FC = () => {
 };
 
 export default ProjectTimeline;
+
+export {};
