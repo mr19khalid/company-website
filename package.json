@@ -45,7 +45,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
+    "build": "CI=false react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
@@ -68,7 +68,9 @@
     ]
   },
   "devDependencies": {
+    "@types/three": "^0.128.0",
     "autoprefixer": "^10.4.24",
+    "html-webpack-plugin": "^5.6.7",
     "postcss": "^8.5.6"
   },
   "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
@@ -78,3 +80,4 @@
   "license": "ISC",
   "type": "commonjs"
 }
+
